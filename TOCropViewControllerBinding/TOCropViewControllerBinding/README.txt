@@ -1,0 +1,3 @@
+﻿Command to build ApiDefinition.cs and Structs.cs:
+
+sharpie bind --output=TOCropViewController --namespace=TOCropViewController --sdk=iphoneos9.0 /Users/marcos/Repositorios/TOCropViewControllerNEW/TOCropViewControllerStaticLibrary/TOCropViewController/TOCropViewController/*.h /Users/marcos/Repositorios/TOCropViewControllerNEW/TOCropViewControllerStaticLibrary/TOCropViewController/TOCropViewController/Models/*.h /Users/marcos/Repositorios/TOCropViewControllerNEW/TOCropViewControllerStaticLibrary/TOCropViewController/TOCropViewController/Views/*.h

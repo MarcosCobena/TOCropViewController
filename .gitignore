@@ -42,3 +42,5 @@ xcuserdata
 
 Carthage/Build
 .DS_Store
+TOCropViewControllerBinding/TOCropViewControllerBinding/bin
+TOCropViewControllerBinding/TOCropViewControllerBinding/obj
